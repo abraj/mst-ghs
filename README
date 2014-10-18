@@ -1,0 +1,15 @@
+mst-ghs
+==============
+
+This is a C++ implementation of GHS algorithm for finding minimum-weight spanning tree (MST) in distributed systems.
+==============
+
+How to build?
+  Start terminal and go to the 'mst-ghs' directory
+  Execute 'make' command in the terminal
+  That's it!
+   
+How to run?
+  Go to the 'mst-ghs' directory
+  Execute 'make run' in the terminal
+  
